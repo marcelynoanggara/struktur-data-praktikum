@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1790828554 source:d:\tugas\semester-3\struktur-data-praktek\tugas-tp-jurnal\helven-marcelyno_tjmodul3\tugas_adt_provinsi\main.cpp
+	<iostream>
+	"Province.h"
+
+1790828609 d:\tugas\semester-3\struktur-data-praktek\tugas-tp-jurnal\helven-marcelyno_tjmodul3\tugas_adt_provinsi\province.h
+	<string>
+
+1790828609 source:d:\tugas\semester-3\struktur-data-praktek\tugas-tp-jurnal\helven-marcelyno_tjmodul3\tugas_adt_provinsi\province.cpp
+	"Province.h"
+	<iostream>
+
