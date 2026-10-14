@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1791964784 source:d:\tugas\semester-3\struktur-data-praktek\tugas-tp-jurnal\helven-marcelyno_tpmodul5\tpmod5\main.cpp
+	"list.h"
+
+1791964577 source:d:\tugas\semester-3\struktur-data-praktek\tugas-tp-jurnal\helven-marcelyno_tpmodul5\tpmod5\list.cpp
+	"list.h"
+
+1791964784 d:\tugas\semester-3\struktur-data-praktek\tugas-tp-jurnal\helven-marcelyno_tpmodul5\tpmod5\list.h
+	<iostream>
+
