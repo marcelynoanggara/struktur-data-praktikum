@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1793365113 source:d:\tugas\semester-3\struktur-data-praktek\tugas-tp-jurnal\helven-marcelyno_tjmodul7\main.cpp
+	<iostream>
+	<string>
+	"stack_character.h"
+
+1793365089 d:\tugas\semester-3\struktur-data-praktek\tugas-tp-jurnal\helven-marcelyno_tjmodul7\stack_character.h
+	<iostream>
+	<string>
+
+1793365101 source:d:\tugas\semester-3\struktur-data-praktek\tugas-tp-jurnal\helven-marcelyno_tjmodul7\stack_character.cpp
+	"stack_character.h"
+
